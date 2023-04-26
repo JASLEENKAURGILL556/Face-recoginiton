@@ -1,4 +1,4 @@
-# Face-recoginiton
+# Face-reco
 
 # The proposed project is a combination of two technologies, namely face recognition and speech recognition. The goal of the project is to recognize faces in an image and draw a square around the identified face. The project takes input in the form of speech from the user, and based on the user's voice instruction, it identifies the person in the image.
 
